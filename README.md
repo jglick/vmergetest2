@@ -1,2 +1,3 @@
 vmergetest2
 ===========
+one
